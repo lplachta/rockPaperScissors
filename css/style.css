@@ -1,0 +1,41 @@
+body {
+    background: black;
+    color: white;
+}
+main {
+    position: relative;
+    width: 25%;
+    left: 37.5%;
+    border-color: white;
+    border-style: solid;
+}
+.move-buttons {
+    position: relative;
+    padding-bottom: 5%;
+    left: 20%;
+}
+#winner {
+    color: gold;
+    text-align: center;
+    font-size: 24px;
+}
+.player {
+    position: relative;
+    left: 10%;
+}
+h1 {
+    position: relative;
+    left: 8%;
+}
+.computer {
+    position: relative;
+    left: 5%;
+}
+#playerScore {
+    position: relative;
+    left: 35%;
+}
+#computerScore {
+    position: relative;
+    left: 29%;
+}
